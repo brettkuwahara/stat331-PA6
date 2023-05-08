@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 6"
-author: "Zachary Weinfeld, Brett Kuwahara, Shea Tennison, Gabby Low"
+author: "Zachary Weinfeld, Brett Kuwahara, Shea Tennison, Gabby Low "
 format: html
 editor: visual
 self-contained: true
